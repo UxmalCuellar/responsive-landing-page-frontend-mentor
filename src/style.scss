@@ -1,0 +1,46 @@
+/* Colors */
+
+$white-bg: hsl(0, 0%, 100%);
+$Slate300: hsl(212, 45%, 89%);
+$Slate500: hsl(216, 15%, 48%);
+$Slate900: hsl(218, 44%, 22%);
+
+/* Typography */
+
+body {
+  height: 100vh;
+  background-color: $Slate300;
+  font-size: 15px;
+  font-family: "Outfit", sans-serif;
+  margin: 0;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  a {
+    color: hsl(228, 45%, 44%);
+  }
+}
+
+.card {
+  padding: 20px;
+  background-color: $white-bg;
+  width: 300px;
+  border-radius: 20px;
+  margin: auto;
+  text-align: center;
+  h1 {
+    font-weight: 700;
+    color: $Slate900;
+    font-size: 22px;
+  }
+  p {
+    font-weight: 400;
+    color: $Slate500;
+  }
+  img {
+    width: 100%;
+    object-fit: contain;
+    border-radius: 20px;
+  }
+}

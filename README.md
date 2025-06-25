@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![]('design/Screenshot 2025-06-24 at 10-30-46 Frontend Mentor QR code component.png')
+![](<design/Screenshot\ 2025-06-24\ at\ 10-30-46\ Frontend\ Mentor\ QR\ code\ component.png>)
 
 ### Links
 
